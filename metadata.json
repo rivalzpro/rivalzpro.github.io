@@ -1,0 +1,6 @@
+{
+  "name": "RANGE // Precision Aim Trainer",
+  "description": "Roblox Rivals Aim Training - Tactical 3D precision aim trainer with Sniper and Assault Rifle ballistics, sensitivity calibration, and reactive target drills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
