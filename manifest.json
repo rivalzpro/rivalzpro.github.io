@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Roblox Rivals Aim Training // RANGE",
+  "short_name": "RANGE Rivals",
+  "description": "Tactical 3D precision aim trainer with Sniper and Assault Rifle ballistics, sensitivity calibration, and reactive target drills.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
